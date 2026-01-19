@@ -87,7 +87,7 @@ The bar chart displays the most frequently required skills among the top-paying 
 
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/13fc78df-d0a8-43c2-bc75-e4de670d0876" />
 
-The horizontal bar chart highlights the top 5 most frequently required skills for Data Analyst roles in 2023:
+The bar chart highlights the top 5 most frequently required skills for Data Analyst roles in 2023:
 
 - Skills are ranked by job posting count, representing overall market demand.
 - The visualization clearly shows the dominance of SQL and Python, which together form the backbone of most Data Analyst job descriptions.
