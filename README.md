@@ -36,7 +36,7 @@ The dataset contains job postings related to data careers in 2023 from various o
 - Employment Type  
 - Posting Date  
 
-> *Note: Dataset was sourced from Luke Barousse YouTube video **"SQL for Data Analytics - Learn SQL in 4 Hours"** and cleaned for analysis.*
+> *Note: Dataset was sourced from Luke Barousse YouTube video **"[SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?si=NKPUcDaKu3lJwSrE)"** and cleaned for analysis.*
 
 ---
 
